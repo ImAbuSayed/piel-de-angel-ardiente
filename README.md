@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-de-angel-ardiente/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Piel de ángel ardiente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-angel-ardiente/) |
+| **Get License** | [Obtain a Music License for Piel de ángel ardiente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-angel-ardiente/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esa piel de ángel ardiente me tiene en un viaje,
+> Una mirada tuya y yo pierdo el coraje.
+> Tú brillas en la pista, eres mi luz especial,
+> Nos vamos en la nave, la noche es total.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
